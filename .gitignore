@@ -1,0 +1,4 @@
+.vscode
+.idea
+secrets
+deployments/go-trainee-secrets.yaml
